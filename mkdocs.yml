@@ -1,0 +1,43 @@
+site_name: Kotlin Data Structure and Algorithm
+site_description: >-
+  Create a branded static site from a set of Markdown files to host the
+  documentation of your Open Source or commercial project – customizable,
+  searchable, mobile-friendly, 40+ languages
+
+  # Repository
+repo_name: squidfunk/mkdocs-material
+repo_url: https://github.com/squidfunk/mkdocs-material
+
+# Copyright
+copyright: Copyright &copy; 2021 - 2021 Nwokocha Wisdom
+
+nav:
+  - Introduction: index.md
+  - Linkedlist: linkedlist.md
+  - Tree set: queue.md
+  - Hash Set: queue.md
+  - Queue: queue.md
+  - Stack: stack.md
+  - Sort: 
+    - Bubble Sort: sort.md
+    - Quick Sort:  sort.md
+    - Merge Sort:  sort.md
+    - Insertion Sort:  sort.md
+  - Tree: tree.md
+  - Graph: graph.md
+  - Questions/Answers:
+    - Overview: linkedlist.md
+    - LinkedList Question : 
+      - Question 1: linkedlist.md
+    - Stack Question : 
+      - Question 1: linkedlist.md
+    - Queue Question : 
+      - Question 1: linkedlist.md
+    - Sort Question : 
+      - Question 1: linkedlist.md
+   
+
+theme:
+  name: material
+  palette:
+        primary: 'black'
